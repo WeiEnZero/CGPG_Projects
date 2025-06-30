@@ -1,0 +1,66 @@
+﻿using CGPG;
+using OpenTK.Mathematics;
+using OpenTK.Windowing.Common;
+using OpenTK.Windowing.Desktop;
+using OpenTK.Windowing.GraphicsLibraryFramework;
+
+namespace Week11
+{
+    public static class Program
+    {
+        private static Texture? texture;
+        private static Geometry? quad1;
+        private static Geometry? quad2;
+
+        private static void Main()
+        {
+            var nativeWindowSettings = new NativeWindowSettings()
+            {
+                ClientSize = new Vector2i(1200, 600),
+                Title = "CGPG - Week 11 - Image Manipulation",
+                Flags = ContextFlags.ForwardCompatible,
+            };
+
+            var renderer = new Renderer(
+                GameWindowSettings.Default, 
+                nativeWindowSettings);
+
+            //--------------------------------------------------------//
+            // The original image.
+            //--------------------------------------------------------//
+            quad1 = Shapes.CreateQuad();
+            quad1.SetTexture("Resources/sample_image.jpg");
+
+            renderer.AddGeometry(quad1);
+
+            Mat4 trans1 = new Mat4();
+            trans1.MakeTranslate(-0.55f, -0.04f, 0);
+            quad1.SetMatrix(trans1);
+            //--------------------------------------------------------//
+
+            //--------------------------------------------------------//
+            // The manipulated image.
+            //--------------------------------------------------------//
+            quad2 = Shapes.CreateQuad();
+            quad2.SetTexture("Resources/sample_image.jpg");
+
+            renderer.AddGeometry(quad2);
+
+            Mat4 trans = new Mat4();
+            trans.MakeTranslate(0.55f, -0.04f, 0);
+            quad2.SetMatrix(trans);
+            //--------------------------------------------------------//
+
+            renderer.OnUpdate = OnUpdateFrame;
+
+            renderer.Run();            
+        }
+
+        static void OnUpdateFrame(
+            Renderer ren, 
+            FrameEventArgs e, 
+            KeyboardState keyboard)
+        {
+        }
+    }
+}
