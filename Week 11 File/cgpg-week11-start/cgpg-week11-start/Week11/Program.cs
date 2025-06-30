@@ -61,6 +61,47 @@ namespace Week11
             FrameEventArgs e, 
             KeyboardState keyboard)
         {
+            int width = quad1.GetTexture().Width;
+            int height = quad1.GetTexture().Height;
+            byte[] original_data = quad1.GetTexture().GetRawData();
+            byte[] changing_data = quad2.GetTexture().GetRawData();
+            if (keyboard.IsKeyPressed(Keys.R))
+            {
+                // Set a red colour to the changing data and set it to quad2.
+                // Set a red colour to the changing data and set it to quad2.
+                byte[] updated_data = ImageUtils.SetRedColor(changing_data, width,
+                height);
+                quad2.SetTexture(updated_data, width, height);
+            }
+            if (keyboard.IsKeyPressed(Keys.B))
+            {
+                // Set a red colour to the changing data and set it to quad2.
+                // Set a red colour to the changing data and set it to quad2.
+                byte[] updated_data = ImageUtils.SetBlueColor(changing_data, width,
+                height);
+                quad2.SetTexture(updated_data, width, height);
+            }
+            if (keyboard.IsKeyPressed(Keys.G))
+            {
+                // Set a red colour to the changing data and set it to quad2.
+                // Set a red colour to the changing data and set it to quad2.
+                byte[] updated_data = ImageUtils.SetGreenColor(changing_data, width,
+                height);
+                quad2.SetTexture(updated_data, width, height);
+            }
+            if (keyboard.IsKeyPressed(Keys.Q))
+            {
+                // Convert the image to grayscale.
+                byte[] updated_data = ImageUtils.ConvertToGrayscale(changing_data, width,
+                height);
+                quad2.SetTexture(updated_data, width, height);
+            }
+            if (keyboard.IsKeyPressed(Keys.Space))
+            {
+                // Reset to the original texture.
+
+                quad2.SetTexture("Resources/sample_image.jpg");
+            } 
         }
     }
 }
