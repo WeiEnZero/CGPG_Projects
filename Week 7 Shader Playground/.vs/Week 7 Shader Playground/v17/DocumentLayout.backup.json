@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wei En\\Documents\\CGPG Files\\Week 7 Shader Playground\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wei En\\Documents\\CGPG Files\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\Grass.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Game\\Shaders\\Grass.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wei En\\Documents\\CGPG Files\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\VertexDisplacement.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Game\\Shaders\\VertexDisplacement.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wei En\\Documents\\CGPG Files\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\WaterVertexDisplacement.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Game\\Shaders\\WaterVertexDisplacement.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grass.shader",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\CGPG Files\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\Grass.shader",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Shaders\\Grass.shader",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\CGPG Files\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\Grass.shader",
+              "RelativeToolTip": "Assets\\_Game\\Shaders\\Grass.shader",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-06-04T08:38:21.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VertexDisplacement.shader",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\CGPG Files\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\VertexDisplacement.shader",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Shaders\\VertexDisplacement.shader",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\CGPG Files\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\VertexDisplacement.shader",
+              "RelativeToolTip": "Assets\\_Game\\Shaders\\VertexDisplacement.shader",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-06-02T01:20:40.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WaterVertexDisplacement.shader",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\CGPG Files\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\WaterVertexDisplacement.shader",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Shaders\\WaterVertexDisplacement.shader",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\CGPG Files\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\WaterVertexDisplacement.shader",
+              "RelativeToolTip": "Assets\\_Game\\Shaders\\WaterVertexDisplacement.shader",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-06-02T02:09:51.222Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
