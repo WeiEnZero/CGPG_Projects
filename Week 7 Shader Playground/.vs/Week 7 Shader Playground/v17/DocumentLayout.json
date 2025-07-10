@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A2E3D1C-8E46-A973-3DB4-2D64A87FFAD0}|Assembly-CSharp.csproj|c:\\users\\wei en\\documents\\github\\cgpg_projects\\week 7 shader playground\\assets\\_game\\scripts\\blend amt change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A2E3D1C-8E46-A973-3DB4-2D64A87FFAD0}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\blend amt change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A2E3D1C-8E46-A973-3DB4-2D64A87FFAD0}|Assembly-CSharp.csproj|c:\\users\\wei en\\documents\\github\\cgpg_projects\\week 7 shader playground\\assets\\_game\\shaders\\bubbleshield.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9A2E3D1C-8E46-A973-3DB4-2D64A87FFAD0}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\shaders\\bubbleshield.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A2E3D1C-8E46-A973-3DB4-2D64A87FFAD0}|Assembly-CSharp.csproj|c:\\users\\wei en\\documents\\github\\cgpg_projects\\week 7 shader playground\\assets\\_game\\shaders\\dissolveblender.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{9A2E3D1C-8E46-A973-3DB4-2D64A87FFAD0}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\shaders\\dissolveblender.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{9A2E3D1C-8E46-A973-3DB4-2D64A87FFAD0}|Assembly-CSharp.csproj|c:\\users\\wei en\\documents\\github\\cgpg_projects\\week 7 shader playground\\assets\\_game\\shaders\\grass.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9A2E3D1C-8E46-A973-3DB4-2D64A87FFAD0}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\shaders\\grass.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2E3D1C-8E46-A973-3DB4-2D64A87FFAD0}|Assembly-CSharp.csproj|c:\\users\\wei en\\documents\\github\\cgpg_projects\\week 7 shader playground\\assets\\_game\\shaders\\vertexdisplacement.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9A2E3D1C-8E46-A973-3DB4-2D64A87FFAD0}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\shaders\\vertexdisplacement.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Blend Amt Change.cs",
-              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Scripts\\Blend Amt Change.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Blend Amt Change.cs",
-              "ToolTip": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Scripts\\Blend Amt Change.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Blend Amt Change.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T09:41:58.151Z",
+              "DocumentIndex": 1,
+              "Title": "Grass.shader",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\Grass.shader",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Shaders\\Grass.shader",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\Grass.shader",
+              "RelativeToolTip": "Assets\\_Game\\Shaders\\Grass.shader",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-07-09T09:27:32.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DissolveBlender.shader",
-              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\DissolveBlender.shader",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Shaders\\DissolveBlender.shader",
-              "ToolTip": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\DissolveBlender.shader",
-              "RelativeToolTip": "Assets\\_Game\\Shaders\\DissolveBlender.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BubbleShield.shader",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\BubbleShield.shader",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Shaders\\BubbleShield.shader",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\BubbleShield.shader",
+              "RelativeToolTip": "Assets\\_Game\\Shaders\\BubbleShield.shader",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-07-02T09:35:56.784Z",
+              "WhenOpened": "2025-07-09T08:19:20.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VertexDisplacement.shader",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\VertexDisplacement.shader",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Shaders\\VertexDisplacement.shader",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\VertexDisplacement.shader",
+              "RelativeToolTip": "Assets\\_Game\\Shaders\\VertexDisplacement.shader",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-07-09T09:00:11.737Z",
               "EditorCaption": ""
             }
           ]

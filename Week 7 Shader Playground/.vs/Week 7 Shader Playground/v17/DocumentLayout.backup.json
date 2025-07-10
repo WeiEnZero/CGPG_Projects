@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\TemplateUnlit 1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Game\\Shaders\\TemplateUnlit 1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{9A2E3D1C-8E46-A973-3DB4-2D64A87FFAD0}|Assembly-CSharp.csproj|c:\\users\\wei en\\documents\\github\\cgpg_projects\\week 7 shader playground\\assets\\_game\\shaders\\bubbleshield.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9A2E3D1C-8E46-A973-3DB4-2D64A87FFAD0}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\shaders\\bubbleshield.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TemplateUnlit 1.shader",
-              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\TemplateUnlit 1.shader",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Shaders\\TemplateUnlit 1.shader",
-              "ToolTip": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\TemplateUnlit 1.shader",
-              "RelativeToolTip": "Assets\\_Game\\Shaders\\TemplateUnlit 1.shader",
+              "Title": "BubbleShield.shader",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\BubbleShield.shader",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Shaders\\BubbleShield.shader",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\GitHub\\CGPG_Projects\\Week 7 Shader Playground\\Assets\\_Game\\Shaders\\BubbleShield.shader",
+              "RelativeToolTip": "Assets\\_Game\\Shaders\\BubbleShield.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-07-02T08:19:34.57Z"
+              "WhenOpened": "2025-07-09T08:19:20.681Z",
+              "EditorCaption": ""
             }
           ]
         }

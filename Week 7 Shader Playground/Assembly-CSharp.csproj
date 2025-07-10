@@ -66,6 +66,7 @@
     <None Include="Assets\_Game\Shaders\DissolveBlender.shader" />
     <None Include="Assets\_Game\Shaders\UVManipulation.shader" />
     <None Include="Assets\_Game\Shaders\Grass.shader" />
+    <None Include="Assets\_Game\Shaders\BubbleShield.shader" />
     <None Include="Assets\_Game\Shaders\TextureBlend.shader" />
     <None Include="Assets\_Game\Shaders\TemplateUnlit.shader" />
     <None Include="Assets\_Game\Shaders\BillBoard.shader" />
